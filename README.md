@@ -41,7 +41,7 @@ from the root of your local copy to merge those changes in.
 
 Forking is a feature of GitHub. It lets you create an exact copy of a repository under your name or organization – this way, you can make changes to your _fork_ without modifying the canonical version that so many folks depend on. Learn uses forks for submitting labs.
 
-To fork a repository, simply click the "Fork" button in the top right corner of the repository page. Try it with this repo. (You might need to click on the GitHub icon in the upper right hand corner of this lesson to go to the source.)
+To fork a repository, simply click the "Fork" button in the top right corner of the GitHub repository page. Try it with this repo. (You might need to click on the GitHub icon in the upper right hand corner of this lesson to go to the source.)
 
 You should see a modal that lets you select your destination organization. Usually you'll want to fork to your personal profile.
 
