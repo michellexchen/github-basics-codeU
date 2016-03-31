@@ -1,5 +1,9 @@
 # GitHub Basics
 
+## MY ADDITION
+here's my favorite gif
+![elmo](https://31.media.tumblr.com/c7df88b223aebbb9d709aaa35f5873e4/tumblr_inline_o2bwevqpOT1twuadx_500.gif)
+
 ## Overview
 
 You might have worked with version control software in the past, or this might be your first rodeo. Either way, we're going to teach you enough about `git` to be dangerous.
